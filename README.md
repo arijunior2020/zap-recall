@@ -16,10 +16,6 @@ O projeto consiste na implementação de um app de flashcards chamado ZapRecall.
 ### 🎨 Layout
 O layout deve seguir o design fornecido no Figma. A estilização deve ser feita obrigatoriamente com styled-components.
 
-### 🛠️ Recursos
-[Baixe as imagens usadas no projeto](https://github.com/arijunior2020/zap-recall/releases/latest/download/projeto__zaprecall__recursos.zip)
-
-
 ### ✅ Requisitos Gerais
 - Manipule o HTML usando somente React.
 - Não é permitido o uso de Context nem de Router.
