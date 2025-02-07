@@ -36,8 +36,10 @@ O layout deve seguir o design fornecido no Figma. A estilização deve ser feita
 - O contador deve mostrar quantas perguntas foram respondidas e o total de perguntas.
 - O número de flashcards respondidos deve ser atualizado sempre que uma carta for respondida.
 
-### Deploy
-- A entrega do projeto é via GitHub.
-- 
+### 🚀 Deploy
+- O projeto está hospedado no **Vercel**. Você pode acessá-lo clicando no link abaixo:
+
+🔗 [Acesse o Zap Recall no Vercel](https://zap-recall-lilac-two.vercel.app/)
+
 
 
